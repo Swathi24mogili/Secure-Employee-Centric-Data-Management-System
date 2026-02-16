@@ -1,0 +1,8 @@
+
+{
+  "name": "ServiceNow Project: Secure Employee-Centric Data Management",
+  "description": "An industry-level documentation and simulation portal for an employee-centric data management system built on ServiceNow, featuring secure imports, workflow automation, and smart contract integration concepts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
